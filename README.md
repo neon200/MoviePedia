@@ -21,6 +21,7 @@ Start searching for movies!
 Type a movie title in the search box \
 Press Enter or click "Search" \
 Click "Add to Favorites" on movies you like \
+You can add or remove your Favorite movies
 Find your saved movies in the Favorites section 
 
 ## ⚠️ Local Storage Limitation
