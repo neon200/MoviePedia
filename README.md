@@ -1,69 +1,36 @@
 🎥 Movie Search App
-A simple web application to search for movies and save your favorites locally.
-Features
+A sleek web application to search movies and save favorites locally.
+✨ Features
 
 Search movies using the OMDB API
-View movie details including title, year, and poster
-Add movies to favorites
-Remove movies from favorites
-Favorites persist in local storage between sessions
+View movie details with posters
+Save favorites with one click
+Favorites persist between browser sessions
 
-Live Demo
-You can try the live demo here
-Getting Started
-Prerequisites
+🚀 Quick Start
 
-A modern web browser
-An internet connection
+Clone the repo or download the files
+Open index.html in your browser
+Start searching for movies!
 
-Installation
+📱 Usage
 
-Clone the repository:
-Copygit clone https://github.com/yourusername/movie-search-app.git
+Type a movie title in the search box
+Press Enter or click "Search"
+Click "Add to Favorites" on movies you like
+Find your saved movies in the Favorites section
 
-Navigate to the project directory:
-Copycd movie-search-app
+⚠️ Note
+Favorites are stored in your browser's local storage:
 
-Open index.html in your browser or use a local server.
+Only available on your current device
+Will be lost if you clear browser data
 
-Using Your Own API Key
-The app currently uses a shared OMDB API key. For your own projects, it's recommended to get your own API key:
+🛠️ Technologies
 
-Visit OMDB API to get a free API key
-Replace the API key in script.js:
-javascriptCopyconst API_URL = "https://www.omdbapi.com/?apikey=YOUR_API_KEY";
-
-
-Usage
-
-Enter a movie title in the search box
-Click "Search" or press Enter
-Browse the results
-Click "Add to Favorites" to save movies you like
-View your favorites in the Favorites section
-Click "Remove" to remove a movie from favorites
-
-Limitations
-
-Favorites are stored in your browser's local storage, so they:
-
-Are only available on the device where you saved them
-Will be lost if you clear your browser data
-Cannot be shared between users
-
-
-
-Technologies Used
-
-HTML5
-CSS3
-JavaScript (ES6+)
+HTML5, CSS3, JavaScript
 OMDB API
 LocalStorage API
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
-
-Movie data provided by OMDB API
+👨‍💻 Created by
 Made by Shashi
