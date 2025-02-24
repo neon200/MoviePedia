@@ -11,8 +11,8 @@ Favorites persist between browser sessions
 ## 🚀 Quick Start
 
 Clone the repo or download the files \
+Open [OMDB](https://www.omdbapi.com/apikey.aspx) and create an OMDB API key free version (You will receive the key and activation link through email id you provided ) \
 Write your OMDB API key in the first line of the script.js file \
-Open [OMDB](https://www.omdbapi.com/apikey.aspx) and create an OMDB API key free version \
 Open index.html in your browser \
 Start searching for movies! 
 
