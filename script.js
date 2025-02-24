@@ -1,4 +1,4 @@
-const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=db2bb91f";
+const API_URL = "http://www.omdbapi.com/?i=tt3896198&apikey=WRITE_YOUR_API_KEY_HERE"; //WRITE YOUR OMDB API KEY HERE
 const searchInput = document.getElementById("searchInput");
 const searchBtn = document.getElementById("searchBtn");
 const movieResults = document.getElementById("movieResults");
